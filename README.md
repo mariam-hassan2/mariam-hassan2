@@ -1,4 +1,4 @@
-I am majoring in Computer Science and Math at Case Wester Reserve University. I am interested in software engineering and artificial intelligence. 
+I am majoring in Computer Science at Case Wester Reserve University. I am interested in software engineering and artificial intelligence. 
 You can reach out to me on my email: mxh939@case.edu
 
 
